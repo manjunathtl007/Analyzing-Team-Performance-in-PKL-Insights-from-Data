@@ -9,3 +9,7 @@ step 3 : Preprocessing the data using python
 step 4 : Data analysis and visuallization using python
 
 step 5 : Data Visualization using Power BI
+
+
+
+"Based on the above analysis, we can conclude that the PATNA PIRATES are the most successful team in PKL history."
